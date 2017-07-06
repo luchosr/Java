@@ -1,0 +1,10 @@
+2) https://es.stackoverflow.com/questions/54419/diferencia-entre-int-e-integer
+
+3)https://docs.oracle.com/javase/7/docs/api/javax/swing/JOptionPane.html
+
+actividades:
+c) https://stackoverflow.com/questions/17264792/what-does-null-mean-as-parameter-in-joptionpane-showmessagedialog
+
+
+integer a binario
+https://stackoverflow.com/questions/5263187/print-an-integer-in-binary-format-in-java
